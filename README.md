@@ -7,7 +7,7 @@ This game follows the traditional rule of a real life BlackJack
 
 Edwin Ng Wong
 
-#Instructions to Run
+# Instructions to Run
 
 1). Download the 'src' folder
 2). In cmd, run javac BlackJack.java
