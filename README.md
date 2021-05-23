@@ -11,6 +11,6 @@ Edwin Ng Wong
 
 1). Download the 'src' folder
 
-2). In cmd, run javac BlackJack.java
+2). In CMD, run javac BlackJack.java
 
-3). In cmd, run java BlackJack
+3). In CMD, run java BlackJack
