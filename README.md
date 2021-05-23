@@ -1,7 +1,7 @@
 # BlackJack
 Fully playable BlackJack from the command line that can take up to 6 players. 
 
-This game follows the traditional rule of a real life BlackJack
+This game follows the traditional rule of a real life BlackJack game
 
 # Author
 
