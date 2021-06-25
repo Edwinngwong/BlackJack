@@ -25,6 +25,8 @@ Edwin Ng Wong
 
 # Instructions to Run
 
+Make sure to have JDK installed in your computer
+
 1). Download the 'src' folder
 
 2). In CMD, run javac BlackJack.java
